@@ -1,4 +1,9 @@
-//Lab 2 Anastasia Golev
+//Anastasia Golev
+
+/* Student class has 3 private members to gather a student's data, such as name and grade average. 
+* It includes 2 constructors, a default constructor and a 2 parameter constructor to create a student 
+* based on user input. The class also has get methods for the private member variables and a set method
+* for the average */
 
 public class Student {
 
